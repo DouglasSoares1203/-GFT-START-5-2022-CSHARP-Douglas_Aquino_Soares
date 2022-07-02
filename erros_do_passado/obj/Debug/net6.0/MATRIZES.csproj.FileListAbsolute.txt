@@ -1,0 +1,15 @@
+C:\projetos\c#\MATRIZES\bin\Debug\net6.0\MATRIZES.exe
+C:\projetos\c#\MATRIZES\bin\Debug\net6.0\MATRIZES.deps.json
+C:\projetos\c#\MATRIZES\bin\Debug\net6.0\MATRIZES.runtimeconfig.json
+C:\projetos\c#\MATRIZES\bin\Debug\net6.0\MATRIZES.dll
+C:\projetos\c#\MATRIZES\bin\Debug\net6.0\MATRIZES.pdb
+C:\projetos\c#\MATRIZES\obj\Debug\net6.0\MATRIZES.csproj.AssemblyReference.cache
+C:\projetos\c#\MATRIZES\obj\Debug\net6.0\MATRIZES.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\c#\MATRIZES\obj\Debug\net6.0\MATRIZES.AssemblyInfoInputs.cache
+C:\projetos\c#\MATRIZES\obj\Debug\net6.0\MATRIZES.AssemblyInfo.cs
+C:\projetos\c#\MATRIZES\obj\Debug\net6.0\MATRIZES.csproj.CoreCompileInputs.cache
+C:\projetos\c#\MATRIZES\obj\Debug\net6.0\MATRIZES.dll
+C:\projetos\c#\MATRIZES\obj\Debug\net6.0\refint\MATRIZES.dll
+C:\projetos\c#\MATRIZES\obj\Debug\net6.0\MATRIZES.pdb
+C:\projetos\c#\MATRIZES\obj\Debug\net6.0\MATRIZES.genruntimeconfig.cache
+C:\projetos\c#\MATRIZES\obj\Debug\net6.0\ref\MATRIZES.dll

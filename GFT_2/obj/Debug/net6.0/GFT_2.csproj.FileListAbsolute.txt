@@ -1,0 +1,15 @@
+C:\projetos\c#\MATRIZES\GFT_2\bin\Debug\net6.0\GFT_2.exe
+C:\projetos\c#\MATRIZES\GFT_2\bin\Debug\net6.0\GFT_2.deps.json
+C:\projetos\c#\MATRIZES\GFT_2\bin\Debug\net6.0\GFT_2.runtimeconfig.json
+C:\projetos\c#\MATRIZES\GFT_2\bin\Debug\net6.0\GFT_2.dll
+C:\projetos\c#\MATRIZES\GFT_2\bin\Debug\net6.0\GFT_2.pdb
+C:\projetos\c#\MATRIZES\GFT_2\obj\Debug\net6.0\GFT_2.csproj.AssemblyReference.cache
+C:\projetos\c#\MATRIZES\GFT_2\obj\Debug\net6.0\GFT_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\c#\MATRIZES\GFT_2\obj\Debug\net6.0\GFT_2.AssemblyInfoInputs.cache
+C:\projetos\c#\MATRIZES\GFT_2\obj\Debug\net6.0\GFT_2.AssemblyInfo.cs
+C:\projetos\c#\MATRIZES\GFT_2\obj\Debug\net6.0\GFT_2.csproj.CoreCompileInputs.cache
+C:\projetos\c#\MATRIZES\GFT_2\obj\Debug\net6.0\GFT_2.dll
+C:\projetos\c#\MATRIZES\GFT_2\obj\Debug\net6.0\refint\GFT_2.dll
+C:\projetos\c#\MATRIZES\GFT_2\obj\Debug\net6.0\GFT_2.pdb
+C:\projetos\c#\MATRIZES\GFT_2\obj\Debug\net6.0\GFT_2.genruntimeconfig.cache
+C:\projetos\c#\MATRIZES\GFT_2\obj\Debug\net6.0\ref\GFT_2.dll

@@ -1,0 +1,15 @@
+C:\projetos\c#\MATRIZES\GFT_3\bin\Debug\net6.0\GFT_3.exe
+C:\projetos\c#\MATRIZES\GFT_3\bin\Debug\net6.0\GFT_3.deps.json
+C:\projetos\c#\MATRIZES\GFT_3\bin\Debug\net6.0\GFT_3.runtimeconfig.json
+C:\projetos\c#\MATRIZES\GFT_3\bin\Debug\net6.0\GFT_3.dll
+C:\projetos\c#\MATRIZES\GFT_3\bin\Debug\net6.0\GFT_3.pdb
+C:\projetos\c#\MATRIZES\GFT_3\obj\Debug\net6.0\GFT_3.csproj.AssemblyReference.cache
+C:\projetos\c#\MATRIZES\GFT_3\obj\Debug\net6.0\GFT_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\c#\MATRIZES\GFT_3\obj\Debug\net6.0\GFT_3.AssemblyInfoInputs.cache
+C:\projetos\c#\MATRIZES\GFT_3\obj\Debug\net6.0\GFT_3.AssemblyInfo.cs
+C:\projetos\c#\MATRIZES\GFT_3\obj\Debug\net6.0\GFT_3.csproj.CoreCompileInputs.cache
+C:\projetos\c#\MATRIZES\GFT_3\obj\Debug\net6.0\GFT_3.dll
+C:\projetos\c#\MATRIZES\GFT_3\obj\Debug\net6.0\refint\GFT_3.dll
+C:\projetos\c#\MATRIZES\GFT_3\obj\Debug\net6.0\GFT_3.pdb
+C:\projetos\c#\MATRIZES\GFT_3\obj\Debug\net6.0\GFT_3.genruntimeconfig.cache
+C:\projetos\c#\MATRIZES\GFT_3\obj\Debug\net6.0\ref\GFT_3.dll

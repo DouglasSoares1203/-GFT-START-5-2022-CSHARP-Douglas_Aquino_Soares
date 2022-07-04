@@ -1,0 +1,15 @@
+C:\projetos\c#\-GFT-START-5-2022-CSHARP-Douglas_Aquino_Soares\GFT_4\bin\Debug\net6.0\GFT_4.exe
+C:\projetos\c#\-GFT-START-5-2022-CSHARP-Douglas_Aquino_Soares\GFT_4\bin\Debug\net6.0\GFT_4.deps.json
+C:\projetos\c#\-GFT-START-5-2022-CSHARP-Douglas_Aquino_Soares\GFT_4\bin\Debug\net6.0\GFT_4.runtimeconfig.json
+C:\projetos\c#\-GFT-START-5-2022-CSHARP-Douglas_Aquino_Soares\GFT_4\bin\Debug\net6.0\GFT_4.dll
+C:\projetos\c#\-GFT-START-5-2022-CSHARP-Douglas_Aquino_Soares\GFT_4\bin\Debug\net6.0\GFT_4.pdb
+C:\projetos\c#\-GFT-START-5-2022-CSHARP-Douglas_Aquino_Soares\GFT_4\obj\Debug\net6.0\GFT_4.csproj.AssemblyReference.cache
+C:\projetos\c#\-GFT-START-5-2022-CSHARP-Douglas_Aquino_Soares\GFT_4\obj\Debug\net6.0\GFT_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\c#\-GFT-START-5-2022-CSHARP-Douglas_Aquino_Soares\GFT_4\obj\Debug\net6.0\GFT_4.AssemblyInfoInputs.cache
+C:\projetos\c#\-GFT-START-5-2022-CSHARP-Douglas_Aquino_Soares\GFT_4\obj\Debug\net6.0\GFT_4.AssemblyInfo.cs
+C:\projetos\c#\-GFT-START-5-2022-CSHARP-Douglas_Aquino_Soares\GFT_4\obj\Debug\net6.0\GFT_4.csproj.CoreCompileInputs.cache
+C:\projetos\c#\-GFT-START-5-2022-CSHARP-Douglas_Aquino_Soares\GFT_4\obj\Debug\net6.0\GFT_4.dll
+C:\projetos\c#\-GFT-START-5-2022-CSHARP-Douglas_Aquino_Soares\GFT_4\obj\Debug\net6.0\refint\GFT_4.dll
+C:\projetos\c#\-GFT-START-5-2022-CSHARP-Douglas_Aquino_Soares\GFT_4\obj\Debug\net6.0\GFT_4.pdb
+C:\projetos\c#\-GFT-START-5-2022-CSHARP-Douglas_Aquino_Soares\GFT_4\obj\Debug\net6.0\GFT_4.genruntimeconfig.cache
+C:\projetos\c#\-GFT-START-5-2022-CSHARP-Douglas_Aquino_Soares\GFT_4\obj\Debug\net6.0\ref\GFT_4.dll

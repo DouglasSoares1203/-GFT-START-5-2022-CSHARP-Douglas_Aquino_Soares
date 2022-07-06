@@ -47,8 +47,8 @@ namespace GFT_4
                         List<NumerosPrimos> primos = new List<NumerosPrimos>();
 
                         primos.Add( new NumerosPrimos{ Numero = 1, QuantidadeDeDivisores = 1, EPrimo = false, tempoCalculo = DateTime.Now.Subtract(DateTime.Now)});
-                        primos.Add( new NumerosPrimos{ Numero = 2, QuantidadeDeDivisores = 2, EPrimo = false, tempoCalculo = DateTime.Now.Subtract(DateTime.Now)});
-                        primos.Add( new NumerosPrimos{ Numero = 3, QuantidadeDeDivisores = 3, EPrimo = false, tempoCalculo = DateTime.Now.Subtract(DateTime.Now)});
+                        primos.Add( new NumerosPrimos{ Numero = 3, QuantidadeDeDivisores = 2, EPrimo = true, tempoCalculo = DateTime.Now.Subtract(DateTime.Now)});
+                        primos.Add( new NumerosPrimos{ Numero = 2, QuantidadeDeDivisores = 2, EPrimo = true, tempoCalculo = DateTime.Now.Subtract(DateTime.Now)});
 
                         Parallel.For(inicio,fim, new ParallelOptions{MaxDegreeOfParallelism = 4}, async Index =>{
                             NumerosPrimos numeros = new NumerosPrimos();
@@ -106,7 +106,7 @@ namespace GFT_4
             static void ImprimePrimos(List<NumerosPrimos> Imprime,long inicio, long max)
             {
                 inicio = 2;
-                Console.WriteLine($"Existem{Imprime.AsParallel().Where(w => w.EPrimo).Count()} números primos entre {inicio} e{max}");
+                Console.WriteLine($"Existem {Imprime.AsParallel().Where(w => w.EPrimo).Count()} números primos entre {inicio} e {max}");
 
                 var quantidade = Imprime.AsParallel().Where(w => w.EPrimo).OrderBy(o => o.Numero);
                 int indice = 0;
